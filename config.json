@@ -1,0 +1,18 @@
+{
+    "account_phone": "+393475083081",
+    "account_api_id": 19018959,
+    "account_api_hash": "5070c67827693cf6766a943e232a152b",
+    "delay": 15,
+    "groups": [
+        {
+            "name": "test",
+            "inputs": [
+                "test"
+            ],
+            "outputs": [
+                "Vladimir"
+            ],
+            "words": []
+        }
+    ]
+}
